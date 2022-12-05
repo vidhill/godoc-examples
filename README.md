@@ -2,9 +2,9 @@
 
 Links
 
-- Go official blog: https://go.dev/blog/examples
+- Official go blog article: https://go.dev/blog/examples
 - Go docs: https://pkg.go.dev/testing#hdr-Examples
-- https://pkg.go.dev/golang.org/x/tools/cmd/godoc
+- `godoc` package https://pkg.go.dev/golang.org/x/tools/cmd/godoc
 
 ### Install `godoc`
 
