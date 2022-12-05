@@ -1,6 +1,8 @@
 # godoc-examples
 
-Links
+Dummy project with testable examples that get embedded into docs when using `godoc`
+
+### Links
 
 - Official go blog article: https://go.dev/blog/examples
 - Go docs: https://pkg.go.dev/testing#hdr-Examples
