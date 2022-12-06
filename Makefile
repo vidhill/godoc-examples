@@ -3,6 +3,8 @@ GOPATH := $(shell go env GOPATH)
 
 test:
 		go test ./...
+test.verbose:
+		go test ./... -v
 
 serve-docs: check.godoc
 		godoc -http=:6060
