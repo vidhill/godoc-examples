@@ -8,7 +8,8 @@ Dummy project with testable examples that get embedded into docs when using `god
 - Go docs: https://pkg.go.dev/testing#hdr-Examples
 - `godoc` package https://pkg.go.dev/golang.org/x/tools/cmd/godoc
 
-https://pkg.go.dev/github.com/vidhill/godoc-examples
+- https://pkg.go.dev/github.com/vidhill/godoc-examples
+- https://pkg.go.dev/github.com/vidhill/godoc-examples@v0.0.0
 
 ### Install `godoc`
 
